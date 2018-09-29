@@ -24,3 +24,22 @@ body {
     border-bottom-color: white;
     padding: 20px 0px 0px 0px;              
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+    width:110%;
+    overflow:hidden;
+    background: #236B8E;
+    margin-bottom:20px;
+}
+ 
+.wrapper {
+    width:90%; 
+    max-width:1000px; 
+    margin:auto;
+    overflow:hidden; 
+}
